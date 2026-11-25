@@ -1,0 +1,3 @@
+name: global-subagent-rules
+version: "0.6.0"
+description: Shared reporting rules for Hermes subagents, plus a manual delegation-model picker (hermes subagent-model).
